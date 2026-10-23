@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "beckett": {
+      "type": "http",
+      "url": "http://127.0.0.1:8770/mcp/d3f74d34f07726223d8c4529036f691a"
+    }
+  }
+}
